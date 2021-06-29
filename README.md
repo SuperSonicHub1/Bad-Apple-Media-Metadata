@@ -31,11 +31,8 @@ On recent versions of Android, simply pull down your notification shade and look
 
 On Chrome OS, go [here](https://support.google.com/chromebook/answer/183107?hl=en) and look under `Pause, play, or skip music with quick settings`.
 > If you play a song from the web or from a music app, like YouTube Music, you can use quick settings to pause, play, or skip tracks.
-
 > At the bottom right of your screen, select the time.
-
 > From the menu, use the controls to pause, play, or skip tracks.
-
 > Tip: To get quick access to controls, pin this feature. When pinned, to open controls, select the Music icon.
 
 ### I followed the instructions above and I don't see anything!
@@ -43,8 +40,9 @@ Make sure your browser supports the [Media Session API](https://developer.mozill
 
 #### Confirmed Working On:
 * Android 11 with Google Chrome
-* Windows 10 with Google Chrome
-* Windows 10 with Microsoft Edge
+* Windows 10
+	* Google Chrome
+	* Microsoft Edge
 * Chrome OS 91 with Google Chrome
 
 ## Deployment
