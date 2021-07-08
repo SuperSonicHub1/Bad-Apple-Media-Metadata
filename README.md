@@ -1,6 +1,6 @@
 # Bad Apple Media Metadata
 
-[Bad Apple must be able to be play everywhere](https://en.wikipedia.org/wiki/Bad_Apple!!#Demoscene). This is my humble contribution.
+[Bad Apple must be able to play everywhere](https://en.wikipedia.org/wiki/Bad_Apple!!#Demoscene). This is my humble contribution.
 [Try it on Replit](https://Bad-Apple-Media-Metadata.supersonichub1.repl.co).
 
 ## FAQ
