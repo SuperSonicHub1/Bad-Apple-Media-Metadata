@@ -1,6 +1,8 @@
 # Bad Apple Media Metadata
 
-[Bad Apple must be able to be play everywhere](https://en.wikipedia.org/wiki/Bad_Apple!!#Demoscene). This is my humble contribution.
+[![Watch a demonstration of this site on YouTube!](http://i3.ytimg.com/vi/asLupJj-xkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=asLupJj-xkk)
+
+[Bad Apple must be able to play everywhere](https://en.wikipedia.org/wiki/Bad_Apple!!#Demoscene). This is my humble contribution.
 [Try it on Replit](https://Bad-Apple-Media-Metadata.supersonichub1.repl.co).
 
 ## FAQ
